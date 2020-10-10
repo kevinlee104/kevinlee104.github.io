@@ -5,14 +5,25 @@
     <link>https://kevinlee104.github.io/</link>
     <description>Recent content on kevin</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://kevinlee104.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sat, 10 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://kevinlee104.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About Kevin</title>
+      <title>Here I am</title>
+      <link>https://kevinlee104.github.io/posts/here-i-am/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://kevinlee104.github.io/posts/here-i-am/</guid>
+      <description>This is my first post</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
       <link>https://kevinlee104.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kevinlee104.github.io/about/</guid>
-      <description>Hugo is a static site engine written in Go.</description>
+      <description>Who are you and what do you do? I currently live in Auckland, New Zealand.
+ </description>
     </item>
     
     <item>
@@ -21,7 +32,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kevinlee104.github.io/contact/</guid>
-      <description>Follow me, @johndoe.</description>
+      <description></description>
     </item>
     
     <item>
@@ -51,6 +62,15 @@ pwd </description>
       <guid>https://kevinlee104.github.io/snippets/second/</guid>
       <description>This content is in snippets/second/index.md
 ls -la </description>
+    </item>
+    
+    <item>
+      <title>關於我</title>
+      <link>https://kevinlee104.github.io/zh-cn/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kevinlee104.github.io/zh-cn/about/</guid>
+      <description>Hugo is a static site engine written in Go.</description>
     </item>
     
   </channel>

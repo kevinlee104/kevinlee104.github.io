@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://kevinlee104.github.io/posts/here-i-am/</loc>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kevinlee104.github.io/</loc>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://kevinlee104.github.io/zh-cn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kevinlee104.github.io/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://kevinlee104.github.io/posts/</loc>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kevinlee104.github.io/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kevinlee104.github.io/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://kevinlee104.github.io/zh-cn/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kevinlee104.github.io/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://kevinlee104.github.io/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kevinlee104.github.io/snippets/first/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kevinlee104.github.io/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kevinlee104.github.io/snippets/second/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kevinlee104.github.io/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://kevinlee104.github.io/zh-cn/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kevinlee104.github.io/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://kevinlee104.github.io/snippets/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kevinlee104.github.io/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://kevinlee104.github.io/zh-cn/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kevinlee104.github.io/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://kevinlee104.github.io/zh-cn/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kevinlee104.github.io/zh-cn/about/</loc>
+  </url>
+  
+</urlset>
